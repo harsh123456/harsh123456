@@ -5,11 +5,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🤔 &nbsp; Completed Master's in Business Data Science from University of Otago
+- 🎓 &nbsp; Completed Master's in Business Data Science from University of Otago
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Game Design and Reading Books as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
