@@ -34,7 +34,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Tableau](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=tableau&logoColor=007ACC)
+  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau&logoColor=007ACC)
 
 <br/>
 
@@ -51,5 +51,3 @@
 <a href="https://harshkansara.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-harshkansara.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/harsh-kansara-35b681148/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harsh%20Kansara-blue?style=flat-square&logo=linkedin"></a>
 </p>
-
-⭐️ From [harsh123456](https://github.com/harsh123456)
