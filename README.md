@@ -47,7 +47,7 @@
 
 <p align="center">
 <a href="https://harshkansara.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-harshkansara.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/harsh123456/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/harsh-kansara-35b681148/"></a>
+<a href="https://www.linkedin.com/in/harsh-kansara-35b681148/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harsh%20Kansara-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ⭐️ From [harsh123456](https://github.com/harsh123456)
