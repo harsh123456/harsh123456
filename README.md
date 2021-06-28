@@ -1,12 +1,12 @@
 ### Hi there I'm Harsh.👋
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - &nbsp; Completed Master's in Business Data Science from University of Otago
-- &nbsp; Completed Master's in Business Data Science from University of Otago
-- &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- &nbsp; Pursuing Game Design and Reading Books as hobbies.
+- &nbsp; Currently looking for opportunities as a Web Developer or Data Analyst
+- &nbsp; Working on side projects to learn new technologies and develop my skill set.
+- &nbsp; In free time I love to play games and read books as a hobby.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
