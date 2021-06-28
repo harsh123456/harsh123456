@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Completed Master's in Business Data Science from University of Otago
-- 🎓 &nbsp; Completed Master's in Business Data Science from University of Otago
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Game Design and Reading Books as hobbies.
+- &nbsp; Completed Master's in Business Data Science from University of Otago
+- &nbsp; Completed Master's in Business Data Science from University of Otago
+- &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- &nbsp; Pursuing Game Design and Reading Books as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
