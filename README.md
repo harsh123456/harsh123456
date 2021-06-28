@@ -1,4 +1,3 @@
-### Hi there I'm Harsh.👋
 <img src="github_banner.png">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
