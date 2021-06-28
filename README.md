@@ -1,5 +1,5 @@
 ### Hi there I'm Harsh.👋
-<img src="">
+<img src="github_banner.png">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
